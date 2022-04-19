@@ -1,0 +1,8 @@
+﻿  ConsoleApplication glfw.cpp
+C:\Users\Xavier\Documents\c++ openglbuild\ConsoleApplication glfw\ConsoleApplication glfw.cpp(185,25): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Xavier\Documents\c++ openglbuild\ConsoleApplication glfw\ConsoleApplication glfw.cpp(195,30): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\Xavier\Documents\c++ openglbuild\ConsoleApplication glfw\ConsoleApplication glfw.cpp(342,15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\Xavier\Documents\c++ openglbuild\ConsoleApplication glfw\ConsoleApplication glfw.cpp(377,27): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Xavier\Documents\c++ openglbuild\ConsoleApplication glfw\ConsoleApplication glfw.cpp(386,34): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Xavier\Documents\c++ openglbuild\ConsoleApplication glfw\ConsoleApplication glfw.cpp(397,37): warning C4305: '=': truncamento de 'double' para 'float'
+  ConsoleApplication glfw.vcxproj -> C:\Users\Xavier\Documents\c++ openglbuild\ConsoleApplication glfw\Debug\ConsoleApplication glfw.exe
